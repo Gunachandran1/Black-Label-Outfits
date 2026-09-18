@@ -1,0 +1,10 @@
+blacklabel-backend/target/
+blacklabel-frontend/node_modules/
+blacklabel-frontend/dist/
+.idea/
+*.iml
+.env
+.env.local
+*.env
+.DS_Store
+Thumbs.db
